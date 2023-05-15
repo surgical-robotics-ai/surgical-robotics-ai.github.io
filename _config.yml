@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: Surgical Robotics AI
+description: Machine Learning for Minimally-Invasive Robotic Surgery
+show_downloads: false
+navbar-links:
+  Home: "./index.md"
