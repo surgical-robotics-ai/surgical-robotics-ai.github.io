@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Surgical Robotics AI
+# [Surgical Robotics AI](https://github.com/surgical-robotics-ai)
 
 Our mission is to advance the application of machine learning in robotic surgery.
 Our primary application domain is the telesurgical approach exemplified in operating rooms
