@@ -9,10 +9,22 @@ Our primary application domain is the telesurgical approach exemplified in opera
 by the da Vinci surgical system and in research labs by the da Vinci Research Kit (dVRK)
 and Raven II open platforms.
 
+## Surgical Robotics Simulator
+
+Our surgical robotics simulator is based on the [Asynchronous Multi-Body Framework (AMBF)](https://github.com/WPI-AIM/ambf),
+for which we have created the
+[Surgical Robotics Challenge Assets](https://github.com/surgical-robotics-ai/surgical_robotics_challenge).
+This environment was created for the AccelNet Surgical Robotics Challenges (see below), but also serves as
+a simulator for surgical robotic suturing.
+
 ## AccelNet Surgical Robotics Challenges
 
 * [AccelNet Surgical Robotics Challenge, 2021-2022](./surgical-robotics-challenge-2021/challenge-2021.html)
 * [AccelNet Surgical Robotics Challenge, 2023-2024](./surgical-robotics-challenge-2023/challenge-2023.html)
+
+## Tutorials
+
+A tutorial was presented at the ISMR 2023 Workshop, [Hands-On Machine Learning in Simulation and Reality with the da Vinci Research Kit](./ismr-2023-workshop.md) and is being adapted as an online tutorial.
 
 # Support
 
