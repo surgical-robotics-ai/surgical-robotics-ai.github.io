@@ -13,7 +13,7 @@ the entry and exit for each pair of points.  As in the previous challenges, the 
 simulated robot will be comparable to that of a real robot.
 
 <video width="960" height="540" autoplay muted loop>
-  <source type="video/mp4" src="/surgical-robotics-challenge/task3_clip.mp4">
+  <source type="video/mp4" src="/surgical-robotics-challenge-2021/task3_clip.mp4">
 Your browser does not support the video tag.
 </video>
 

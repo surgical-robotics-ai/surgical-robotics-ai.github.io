@@ -119,7 +119,7 @@ conditions are provided in the detailed pages for each challenge.
 
 <div style="float:right; margin-left:25px">
 <video width="480" height="270" autoplay muted loop>
-  <source type="video/mp4" src="/surgical-robotics-challenge/task1_clip.mp4">
+  <source type="video/mp4" src="/surgical-robotics-challenge-2021/task1_clip.mp4">
 Your browser does not support the video tag.
 </video></div>
 
@@ -135,7 +135,7 @@ needle, with respect to the current endoscope pose. The video shows two sample e
 
 <div style="float:right; margin-left:25px">
 <video width="480" height="270" autoplay muted loop>
-  <source type="video/mp4" src="/surgical-robotics-challenge/task2_clip.mp4">
+  <source type="video/mp4" src="/surgical-robotics-challenge-2021/task2_clip.mp4">
 Your browser does not support the video tag.
 </video></div>
 
@@ -153,7 +153,7 @@ accurate performance.
 
 <div style="float:right; margin-left:25px">
 <video width="480" height="270" autoplay muted loop>
-  <source type="video/mp4" src="/surgical-robotics-challenge/task3_clip.mp4">
+  <source type="video/mp4" src="/surgical-robotics-challenge-2021/task3_clip.mp4">
 Your browser does not support the video tag.
 </video></div>
 

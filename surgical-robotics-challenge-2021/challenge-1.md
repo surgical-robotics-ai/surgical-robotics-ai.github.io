@@ -10,7 +10,7 @@ Develop algorithms to identify the pose (position and orientation) of the metall
 needle, with respect to the current endoscope pose.
 
 <video width="960" height="540" autoplay muted loop>
-  <source type="video/mp4" src="/surgical-robotics-challenge/task1_clip.mp4">
+  <source type="video/mp4" src="/surgical-robotics-challenge-2021/task1_clip.mp4">
 Your browser does not support the video tag.
 </video>
 
