@@ -22,7 +22,7 @@ is acceptable.
 2. Ground-truth poses of first target entry and exit on phantom
 
 Note that the entry and exit points are specified as poses (transforms). See this
-[figure](https://github.com/collaborative-robotics/surgical_robotics_challenge/blob/master/docs/scene_coordinate_frames.md#entry--exit-frames).
+[figure](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/blob/master/docs/scene_coordinate_frames.md#entry--exit-frames).
 
 ### Simulator Test Conditions
 

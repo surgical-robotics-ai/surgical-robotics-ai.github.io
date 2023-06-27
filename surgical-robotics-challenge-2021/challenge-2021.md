@@ -169,7 +169,7 @@ the entry and exit for each pair of points.
 
 ### Contact
 
-Please use the [GitHub Discussions forum](https://github.com/collaborative-robotics/surgical_robotics_challenge/discussions) for questions and comments. See the [Community page](./community.md) for more information.
+Please use the [GitHub Discussions forum](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/discussions) for questions and comments. See the [Community page](./community.md) for more information.
 
 To contact the organizers by email: [accelnet-robotics-challenge-admin@googlegroups.com](mailto:accelnet-robotics-challenge-admin@googlegroups.com)
 

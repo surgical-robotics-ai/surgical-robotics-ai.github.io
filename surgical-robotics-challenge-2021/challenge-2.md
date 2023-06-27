@@ -28,7 +28,7 @@ Your browser does not support the video tag.
 2. Ground-truth poses of first target entry and exit on phantom
 
 Note that the entry and exit points are specified as poses (transforms). See this
-[figure](https://github.com/collaborative-robotics/surgical_robotics_challenge/blob/master/docs/scene_coordinate_frames.md#entry--exit-frames).
+[figure](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/blob/master/docs/scene_coordinate_frames.md#entry--exit-frames).
 These coordinate frames will always be defined so that the XZ planes
 are aligned. The expectation is that the needle trajectory will primarily be a rotation about
 the Y axis (i.e., in the XZ plane), though the evaluation metric does not require this.
@@ -61,12 +61,12 @@ least 5 mm of the needle tip must be visible. Note that the squares surrounding 
 All entries that pass the accuracy threshold will be ranked based on completion time.
 Time will be measured from when the user script is started until the task completion message is received.
 
-The [evaluation script](https://github.com/collaborative-robotics/surgical_robotics_challenge/blob/master/scripts/surgical_robotics_challenge/evaluation/evaluation.py) for this challenge is in the GitHub repository and can be run as follows (use `python` or `python3` as appropriate):
+The [evaluation script](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/blob/master/scripts/surgical_robotics_challenge/evaluation/evaluation.py) for this challenge is in the GitHub repository and can be run as follows (use `python` or `python3` as appropriate):
 
 ```
 python evaluation.py -t <team_name> -e 2
 ```
 
-See also the [GitHub Discussions forum](https://github.com/collaborative-robotics/surgical_robotics_challenge/discussions/50).
+See also the [GitHub Discussions forum](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/discussions/50).
 
 ![Entry and Exit Holes](./entry-and-exit-holes.svg)
