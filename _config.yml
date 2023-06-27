@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-title: Surgical Robotics AI
+title: <a href="/index.html" style="color:white;text-decoration:none">Surgical Robotics AI</a>
 description: Machine Learning for Minimally-Invasive Robotic Surgery
 show_downloads: false
 navbar-links:
