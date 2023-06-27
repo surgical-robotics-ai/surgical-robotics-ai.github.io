@@ -24,7 +24,7 @@ a simulator for surgical robotic suturing.
 
 ## Tutorials
 
-A tutorial was presented at the ISMR 2023 Workshop, [Hands-On Machine Learning in Simulation and Reality with the da Vinci Research Kit](./ismr-2023-workshop.md) and is being adapted as an online tutorial.
+A tutorial was presented at the ISMR 2023 Workshop, [Hands-On Machine Learning in Simulation and Reality with the da Vinci Research Kit](https://collaborative-robotics.github.io/ismr-2023-workshop.html) and is being adapted as an online tutorial.
 
 # Support
 
