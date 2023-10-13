@@ -39,19 +39,18 @@ Stay tuned...
 
 **April 19, 2023:**  Presentation of challenge at [ISMR 2023 Workshop](https://collaborative-robotics.github.io/ismr-2023-workshop.html)
 
-**December 2023:** Online challenge closes
+**October 12, 2023:** Registration form activated
 
-**January 2024:** Physical (in-person) challenge
+**Summer 2024:** Physical (in-person) challenge
 
 ## Registration
 
 Please register to participate in these challenges. This enables us to inform you about any important updates.
 
 There are no restrictions on who can participate in this challenge. We expect most participants to be part of a team,
-so it is only necessary for one person to register the team. If you wish, you can add the names of other participants in
-the "Additional comments" box.
+so it is only necessary for one person to register the team. If you wish, you can add the names of other participants in the registration form.
 
-[Registration form]()
+[Registration form](https://docs.google.com/forms/d/e/1FAIpQLSdDr5al1koaxZd0Xyuf9S1XG3Mvt-V5wlz3Qm-9CyoWjlJb3w/viewform?usp=sf_link)
 
 ## Awards
 
