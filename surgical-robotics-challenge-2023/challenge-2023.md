@@ -66,7 +66,7 @@ TBD
 The challenge is based on the [Asynchronous Multi-Body Framework (AMBF)](https://github.com/WPI-AIM/ambf)
 simulator.
 Currently, participants will need to install AMBF on a Linux system and clone the surgical robotics challenge assets.
-We are currently investigating a cloud-based solution as an alternative to a local installation.
+We are investigating a cloud-based solution as an alternative to a local installation.
 Note that we are no longer using Docker containers, as in the previous challenge.
 Additional details are provided [**here**](./system-setup.md).
 
