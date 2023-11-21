@@ -21,7 +21,7 @@ collection of ground-truth data for training a neural network.
 
 ## News
 
-12/14/2021: Announcing the [GitHub Discussions forum](https://github.com/collaborative-robotics/surgical_robotics_challenge/discussions) for questions and comments. See the [Community page](./community.md) for more information.
+12/14/2021: Announcing the [GitHub Discussions forum](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/discussions) for questions and comments. See the [Community page](./community.md) for more information.
 
 01/26/2022: Deadline extended from Feb 1, 2022 to May 1, 2022 and added registration form (see below). One motivation is to enable student projects organized around the challenge for the Spring 2022 semester.
 
@@ -30,8 +30,8 @@ collection of ground-truth data for training a neural network.
 
 04/06/2022: Added example script files (see [System Setup](./system-setup.md)); updated scripts in Surgical Robotics Challenge Assets to use new CRTK convention for `measured_cp` (`geometry_msgs/PoseStamped` instead of `geometry_msgs/TransformStamped`); added information about simulation units (1 mm = 0.01 SU, 1 SU = 100 mm = 0.1 m) -- see new figure in [Challenge 2](./challenge-2.md).
 
-04/16/2022: Updated example script files ([interface_via_crtk_ros_api.py](https://github.com/collaborative-robotics/surgical_robotics_challenge/blob/master/scripts/surgical_robotics_challenge/examples/interface_via_crtk_ros_api.py) and
-[interface_via_method_api.py](https://github.com/collaborative-robotics/surgical_robotics_challenge/blob/master/scripts/surgical_robotics_challenge/examples/interface_via_method_api.py))
+04/16/2022: Updated example script files ([interface_via_crtk_ros_api.py](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/blob/v1.0.0/scripts/surgical_robotics_challenge/examples/interface_via_crtk_ros_api.py) and
+[interface_via_method_api.py](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/blob/v1.0.0/scripts/surgical_robotics_challenge/examples/interface_via_method_api.py))
 to demonstrate reporting of Challenge Task completion, and to call method (`task_3_setup_init`)
 or publish ROS topic (`task_3_setup/init`) that initializes needle in grasper for [Challenge 3](./challenge-3.md).
 Also, added information about robot kinematic error in [Challenge 2](./challenge-2.md).
@@ -40,7 +40,7 @@ Also, added information about robot kinematic error in [Challenge 2](./challenge
 
 04/26/2022: Changed time limit for Challenge 1 from 10 seconds to 60 seconds.
 
-05/20/2022: Added [evaluation script](https://github.com/collaborative-robotics/surgical_robotics_challenge/blob/master/scripts/surgical_robotics_challenge/evaluation/evaluation.py) to GitHub repository. This script will be used to evaluate entries submitted to each of the 3 challenges and is provided so that competitors can better test their algorithms prior to submission. Note that this is a beta version of the script and may be updated. See the [GitHub Discussions forum](https://github.com/collaborative-robotics/surgical_robotics_challenge/discussions/50) for more information.
+05/20/2022: Added [evaluation script](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/blob/v1.0.0/scripts/surgical_robotics_challenge/evaluation/evaluation.py) to GitHub repository. This script will be used to evaluate entries submitted to each of the 3 challenges and is provided so that competitors can better test their algorithms prior to submission. Note that this is a beta version of the script and may be updated. See the [GitHub Discussions forum](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/discussions/50) for more information.
 
 06/01/2022: Added submission instructions, summarized below, with details [here](./submission.md).
 

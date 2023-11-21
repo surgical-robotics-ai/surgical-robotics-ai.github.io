@@ -35,10 +35,10 @@ The evaluation metric will be the same as [Challenge 2](./challenge-2.md); speci
 entries that meet the specified accuracy thresholds will be ranked based on completion time.
 Time will be measured from when the user script is started until the task completion message is received.
 
-The [evaluation script](https://github.com/collaborative-robotics/surgical_robotics_challenge/blob/master/scripts/surgical_robotics_challenge/evaluation/evaluation.py) for this challenge is in the GitHub repository and can be run as follows (use `python` or `python3` as appropriate):
+The [evaluation script](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/blob/v1.0.0/scripts/surgical_robotics_challenge/evaluation/evaluation.py) for this challenge is in the GitHub repository and can be run as follows (use `python` or `python3` as appropriate):
 
 ```
 python evaluation.py -t <team_name> -e 3
 ```
 
-See also the [GitHub Discussions forum](https://github.com/collaborative-robotics/surgical_robotics_challenge/discussions/50).
+See also the [GitHub Discussions forum](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/discussions/50).

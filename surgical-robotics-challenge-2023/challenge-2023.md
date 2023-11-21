@@ -41,6 +41,8 @@ Stay tuned...
 
 **October 12, 2023:** Registration form activated
 
+**May/June 2023:** Close of online (simulation-based) challenge
+
 **Summer 2024:** Physical (in-person) challenge
 
 ## Registration
