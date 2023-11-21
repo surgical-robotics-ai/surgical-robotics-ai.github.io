@@ -43,12 +43,12 @@ obtains the simulated robot kinematic error from the code.
 
 ### Option 1: ROS interface to Challenge Assets (recommended)
 
-See [interface_via_crtk_ros_api.py](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/blob/master/scripts/surgical_robotics_challenge/examples/interface_via_crtk_ros_api.py) example interface script.
+See [interface_via_crtk_ros_api.py](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/blob/v1.0.0/scripts/surgical_robotics_challenge/examples/interface_via_crtk_ros_api.py) example interface script.
 
 ![ROS Interface](./system-ros.svg)
 
 ### Option 2: Python interface to Challenge Assets
 
-See [interface_via_method_api.py](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/blob/master/scripts/surgical_robotics_challenge/examples/interface_via_method_api.py) example interface script.
+See [interface_via_method_api.py](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/blob/v1.0.0/scripts/surgical_robotics_challenge/examples/interface_via_method_api.py) example interface script.
 
 ![Python Interface](./system-python.svg)
