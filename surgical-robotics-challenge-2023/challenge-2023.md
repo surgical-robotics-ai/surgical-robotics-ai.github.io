@@ -24,7 +24,7 @@ We also provide a simulation environment for each specified physical platform.
 The goal is to conduct the first part of the challenge in simulation, followed by a sim-to-real transfer
 on the physical platforms. The following video provides a "teaser" of the updated simulation environment.
 
-<video width="640" height="360" autoplay muted loop>
+<video width="1080" height="720" autoplay muted loop>
   <source type="video/mp4" src="/surgical-robotics-challenge-2023/Suturing-AMBF.mp4">
 Your browser does not support the video tag.
 </video>
