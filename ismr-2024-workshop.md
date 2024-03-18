@@ -18,13 +18,10 @@ This workshop will consist of invited research presentations and include live de
 
 ## Organizers
 
-| Peter Kazanzides, Adnan Munawar    | Loris Fichera                   |
-|------------------------------------|---------------------------------|
-| Johns Hopkins University           | Worcester Polytechnic Institute |
-
-| Jie Ying Wu           | Zonghe Chua          |
-|-----------------------|----------------------|
-| Vanderbilt University | Case Western Reserve |
+| **Peter Kazanzides**, **Adnan Munawar**  | **Loris Fichera**       |
+| Johns Hopkins University                 | Worcester Polytechnic Institute |
+| **Jie Ying Wu**                          | **Zonghe Chua**      |
+| Vanderbilt University                    | Case Western Reserve |
 
 
 ## Tentative Program
