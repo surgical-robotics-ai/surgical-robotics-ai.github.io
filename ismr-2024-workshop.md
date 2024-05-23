@@ -49,5 +49,5 @@ This workshop will consist of invited research presentations and include a live 
 | 11:00 | Bringing Machine Learning to the Core of Surgical Scene Reconstruction and Tracking | Shan Lin, UC San Diego |
 | 11:15 | Learning Deformable Tissue Manipulation from Large-Scale Simulation and Small-Scale Demonstrations | Alan Kuntz, Univ. of Utah |
 | 11:30 | TBA                                             | Pietro Valdastri, Univ. of Leeds |
-| 11:45 | TBA                                             | Ann Majewicz Fey, Univ. of Texas, Austin |
+| 11:45 | Machine Learning for Assessing Surgical Skill and Enhancing User Performance on the dVRK | Ann Majewicz Fey, Univ. of Texas, Austin |
 
