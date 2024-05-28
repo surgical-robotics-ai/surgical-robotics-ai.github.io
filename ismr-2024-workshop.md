@@ -32,7 +32,7 @@ This workshop will consist of invited research presentations and include a live 
 
 | Time | Title                                           | Speakers                |
 |:-----|:------------------------------------------------|:------------------------|
-| 8:30 | Machine Learning with the da Vinci Research Kit | Peter Kazanzides,JHU    |
+| 8:30 | Machine Learning with the da Vinci Research Kit | Peter Kazanzides, JHU   |
 | 8:45 | Live demonstration                 | Juan Barragan, Haoying (Jack) Zhou, JHU/WPI |
 | 9:15 | Perception Complementarity in Robot Assisted Surgeries | Yun-Hsuan (Melody) Su, Mt. Holyoke |
 | 9:30 | Extensions to STITCH: Augmented Dexterity for Suture Throws Including Thread Coordination and Handoffs | Kush Hari, UC Berkeley |

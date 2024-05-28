@@ -10,6 +10,7 @@ As with the prior challenge, the goal is to further advance research in the
 automation of surgical subtasks during robot-assisted surgery.
 The primary changes are:
   * The challenge consists of an online phase (in simulation) followed by an in-person phase (with physical hardware)
+  * The simulation environment uses SI units to better match the physical environment
   * The simulation environment uses models of real phantoms
   * The accuracy of the simulated robots is consistent with that of the physical robots
   * The stereo endoscope video in the physical setup is consistent with that of the simulated environment (i.e., will be higher quality)
@@ -31,7 +32,7 @@ Your browser does not support the video tag.
 
 ## News
 
-Stay tuned...
+**May 28, 2024:** The effort to improve the simulator to better match the physical system has taken longer than expected, and we expect to update the [surgical_robotics_challenge repository](https://github.com/surgical-robotics-ai/surgical_robotics_challenge). As a result, we will be revising the timeline.
 
 ## Timeline
 
@@ -41,9 +42,9 @@ Stay tuned...
 
 **October 12, 2023:** Registration form activated
 
-**May/June 2024:** Close of online (simulation-based) challenge
+**~~May/June 2024:~~ TBD** Close of online (simulation-based) challenge
 
-**Summer 2024:** Physical (in-person) challenge
+**~~Summer 2024:~~ TBD** Physical (in-person) challenge
 
 ## Registration
 
