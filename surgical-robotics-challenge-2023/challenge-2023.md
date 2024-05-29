@@ -32,7 +32,7 @@ Your browser does not support the video tag.
 
 ## News
 
-**May 28, 2024:** The effort to improve the simulator to better match the physical system has taken longer than expected, and we expect to update the [surgical_robotics_challenge repository](https://github.com/surgical-robotics-ai/surgical_robotics_challenge). As a result, we will be revising the timeline.
+**May 28, 2024:** The effort to improve the simulator to better match the physical system has taken longer than expected, and we expect to update the [surgical_robotics_challenge repository](https://github.com/surgical-robotics-ai/surgical_robotics_challenge) within the next week. As a result, we will be revising the timeline.
 
 ## Timeline
 
