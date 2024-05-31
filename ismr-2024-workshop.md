@@ -35,7 +35,7 @@ This workshop will consist of invited research presentations and include a live 
 | 8:30 | Machine Learning with the da Vinci Research Kit | Peter Kazanzides, JHU   |
 | 8:45 | Live demonstration                 | Juan Barragan, Haoying (Jack) Zhou, JHU/WPI |
 | 9:15 | Perception Complementarity in Robot Assisted Surgeries | Yun-Hsuan (Melody) Su, Mt. Holyoke |
-| 9:30 | Extensions to STITCH: Augmented Dexterity for Suture Throws Including Thread Coordination and Handoffs | Kush Hari, UC Berkeley |
+| 9:30 | Augmented Dexterity: Toward Surgical Subtask Autonomy under Surgeon Supervision | Kush Hari, UC Berkeley |
 | 9:45 | Data and AI/ML in robotic surgery: Translation to clinical environments | Tony Jarc, Intuitive Surgical |
 
 **Coffee Break:**  (30 minutes)
