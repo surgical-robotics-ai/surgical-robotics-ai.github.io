@@ -44,7 +44,7 @@ This workshop will consist of invited research presentations and include a live 
 
 | Time  | Title                                           | Speakers                |
 |:------|:------------------------------------------------|:------------------------|
-| 10:30 | TBA                                             | Loris Fichera, WPI      |
+| 10:30 | From Blood and Guts to Bits and Bytes: Increasing Autonomy in Robotic Laser Surgery | Loris Fichera, WPI      |
 | 10:45 | Solving Challenges of Force Estimation in Deformable Environments through Less Real World Data and Labels | Zonghe Chua, Case Western Reserve |
 | 11:00 | Bringing Machine Learning to the Core of Surgical Scene Reconstruction and Tracking | Shan Lin, UC San Diego |
 | 11:15 | Learning Deformable Tissue Manipulation from Large-Scale Simulation and Small-Scale Demonstrations | Alan Kuntz, Univ. of Utah |
