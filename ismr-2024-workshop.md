@@ -24,9 +24,7 @@ This workshop will consist of invited research presentations and include a live 
 | Vanderbilt University                    | Case Western Reserve |
 
 
-## Tentative Program
-
-**NOTE: Order of presentations is subject to change**
+## Final Program
 
 **Session 1:**  Invited Talks and Demonstration (90 minutes)
 
