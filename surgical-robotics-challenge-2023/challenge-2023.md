@@ -47,7 +47,9 @@ Your browser does not support the video tag.
 
 **July 12, 2024:** Surgical robotics challenge v2.0.0 released
 
-**May 2, 2025:** Close of online (simulation-based) challenge
+**January 23, 2025:** First round of online (simulation-based) challenge
+
+**May 2, 2025:** Second (final) round of online (simulation-based) challenge
 
 **Summer 2025:** Physical (in-person) challenge
 
