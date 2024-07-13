@@ -45,6 +45,8 @@ Your browser does not support the video tag.
 
 **October 12, 2023:** Registration form activated
 
+**July 12, 2024:** Surgical robotics challenge v2.0.0 released
+
 **May 2, 2025:** Close of online (simulation-based) challenge
 
 **Summer 2025:** Physical (in-person) challenge
