@@ -37,6 +37,8 @@ Your browser does not support the video tag.
 
 **July 12, 2024:** Released v2.0.0 of the [surgical robotics challenge](https://github.com/surgical-robotics-ai/surgical_robotics_challenge). See the [Change Log](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/blob/v2.0.0/CHANGELOG.md).
 
+**October 7, 2025:** Cancellation of 2025 events, and planning for next steps.
+
 ## Timeline
 
 **October 30, 2022:**  Challenge prelaunch
@@ -47,11 +49,11 @@ Your browser does not support the video tag.
 
 **July 12, 2024:** Surgical robotics challenge v2.0.0 released
 
-**January 23, 2025:** First round of online (simulation-based) challenge
+~~**January 23, 2025:** First round of online (simulation-based) challenge~~
 
-**May 2, 2025:** Second (final) round of online (simulation-based) challenge
+~~**May 2, 2025:** Second (final) round of online (simulation-based) challenge~~
 
-**Summer 2025:** Physical (in-person) challenge
+~~**Summer 2025:** Physical (in-person) challenge~~
 
 ## Registration
 
