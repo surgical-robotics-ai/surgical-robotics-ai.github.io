@@ -22,6 +22,8 @@ a simulator for surgical robotic suturing.
 * [AccelNet Surgical Robotics Challenge, 2021-2022](./surgical-robotics-challenge-2021/challenge-2021.html)
 * [AccelNet Surgical Robotics Challenge, 2023-2024](./surgical-robotics-challenge-2023/challenge-2023.html)
 
+* [ICRA Surgical Robotics Competition, 2026](./icra-challenge-2026.html)
+
 ## Workshops
 
 * [Hands-On Machine Learning in Simulation and Reality with the da Vinci Research Kit (ISMR 2023)](https://collaborative-robotics.github.io/ismr-2023-workshop.html)
