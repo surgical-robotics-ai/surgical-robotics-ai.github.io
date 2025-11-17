@@ -21,7 +21,7 @@ a simulator for surgical robotic suturing.
 
 * [AccelNet Surgical Robotics Challenge, 2021-2022](./surgical-robotics-challenge-2021/challenge-2021.html)
 * [AccelNet Surgical Robotics Challenge, 2023-2024](./surgical-robotics-challenge-2023/challenge-2023.html)
-* [ICRA Surgical Robotics Competition, 2026](./icra-competition-2026/icra-competition-2026.html)
+* [ICRA Surgical Robotics Competition, 2026](./icra-competition-2026/index.html)
 
 ## Workshops
 
