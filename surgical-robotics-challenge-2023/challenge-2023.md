@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 2023-2024 AccelNet Surgical Robotics Challenge
+# 2023-2024 AccelNet Surgical Robotics Challenge (CANCELED)
 
 This is a relaunch and update of the
 [2021-2022 AccelNet Surgical Robotics Challenge](../surgical-robotics-challenge-2021/challenge-2021.md).
@@ -38,6 +38,8 @@ Your browser does not support the video tag.
 **July 12, 2024:** Released v2.0.0 of the [surgical robotics challenge](https://github.com/surgical-robotics-ai/surgical_robotics_challenge). See the [Change Log](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/blob/v2.0.0/CHANGELOG.md).
 
 **October 7, 2025:** Cancellation of 2025 events, and planning for next steps.
+
+**April 1, 2026:**  Please participate in our [ICRA 2026 Challenge](/icra-competition-2026/index.html).
 
 ## Timeline
 

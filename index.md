@@ -16,17 +16,19 @@ for which we have created the
 [Surgical Robotics Challenge Assets](https://github.com/surgical-robotics-ai/surgical_robotics_challenge).
 This environment was created for the AccelNet Surgical Robotics Challenges (see below), but also serves as
 a simulator for surgical robotic suturing.
+In addition, we have parallel implementation using NVIDIA IsaacSim.
 
 ## AccelNet Surgical Robotics Challenges
 
-* [AccelNet Surgical Robotics Challenge, 2021-2022](./surgical-robotics-challenge-2021/challenge-2021.html)
-* [AccelNet Surgical Robotics Challenge, 2023-2024](./surgical-robotics-challenge-2023/challenge-2023.html)
-* [ICRA Surgical Robotics Competition, 2026](./icra-competition-2026/index.html)
+* [AccelNet Surgical Robotics Challenge, 2021-2022](./surgical-robotics-challenge-2021/challenge-2021.html) (concluded)
+* [AccelNet Surgical Robotics Challenge, 2023-2024](./surgical-robotics-challenge-2023/challenge-2023.html) (canceled)
+* [ICRA Surgical Robotics Competition, 2026](./icra-competition-2026/index.html) (active)
 
 ## Workshops
 
 * [Hands-On Machine Learning in Simulation and Reality with the da Vinci Research Kit (ISMR 2023)](https://collaborative-robotics.github.io/ismr-2023-workshop.html)
 * [Machine Learning with the da Vinci Research Kit (ISMR 2024)](./ismr-2024-workshop.html)
+* [Open-Source Software for Intelligent Image-Guided Medical Robots (ISMR 2025)](https://rosmed.github.io/ismr2025/)
 
 ## Tutorials
 
