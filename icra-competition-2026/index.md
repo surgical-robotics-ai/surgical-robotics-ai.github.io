@@ -16,7 +16,27 @@ In this task, the user picks up a peg from a post (with the non-dominant hand) a
 1. **Human teleoperated peg transfer:** the competitor uses an input device to teleoperate a real or simulated dVRK to transfer as many pegs as possible within the time limit.
 
 2. **Autonomous peg transfer:** the competitor (or team) provides an AI algorithm to move a real or
-simulated dVRK to transfer as many pegs as possible within the time limit.
+simulated dVRK to transfer as many pegs as possible within the time limit. The algorithm must interface with the real or simulated dVRK using ROS2.
+
+## Rules
+
+- All competitors must sign a release form to allow their data to be collected and shared with the community.
+- All pegs will start on posts on the left side of the workspace and must be transferred to posts on the right side.
+Once all pegs are on the right side, the competitor must move them to the left side, and go back and forth until the
+3-minute time limit expires.
+- One point is awarded for each peg that is successfully placed on a post.
+- There is no penalty for dropping a peg, though the time to recover is likely to reduce the final score.
+- Any incorrectly moved pegs (e.g., moving a peg from right to left before all pegs have been moved from left to right) will not be counted.
+- If there is a hardware or software failure during a trial, the participant will be allowed to restart.
+- There is no limit to the number of trials each competitor may attempt, but once a trial is completed,
+the competitor must allow any other competitors to use the system.
+
+Assessment
+
+- Performance will be assessed by the number of points (i.e., number of successfully placed pegs) within the
+time limit.
+- If multiple participants have the same number of points, the one who performed the task with the
+least amount of PSM motion will be declared the winner.
 
 ## News
 
@@ -24,7 +44,11 @@ simulated dVRK to transfer as many pegs as possible within the time limit.
 
 ## Timeline
 
-TBA
+**Tues, June 2, 2026:** Human teleoperation competition (9 AM - 6 PM)
+
+**Wed, June 3, 2026:** Human teleoperation and autonomous competition (9 AM - 6 PM)
+
+**Thurs, June 4, 2026:** Autonomous competition (9 AM - 4 PM), Award ceremony, 4:45 PM (Hall C5)
 
 ## Awards
 
