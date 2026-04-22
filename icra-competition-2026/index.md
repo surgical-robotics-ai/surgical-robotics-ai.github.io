@@ -31,7 +31,7 @@ Once all pegs are on the right side, the competitor must move them to the left s
 - There is no limit to the number of trials each competitor may attempt, but once a trial is completed,
 the competitor must allow any other competitors to use the system.
 
-Assessment
+## Assessment
 
 - Performance will be assessed by the number of points (i.e., number of successfully placed pegs) within the
 time limit.
