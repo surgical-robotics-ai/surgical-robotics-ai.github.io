@@ -21,8 +21,10 @@ simulated dVRK to transfer as many pegs as possible within the time limit. The a
 ## Environments
 
 We will have both simulated and physical setups on the competition floor. The intent is for the two setups to be as similar as possible.
+Both setups will use Ubuntu 24.04 and ROS 2.
 
 The Patient Side Manipulators (PSMs) and camera will not be moved and we will provide all transformations between them, including stereo camera calibration (intrinsic and extrinsic parameters). The peg board location will not be provided and may move during the competition.
+
 
 ### Simulation Setup
 
@@ -31,11 +33,13 @@ There will be two computers running simulated environments: one based on the [As
 
 The simulation environment will be similar to the one below. There will be two da Vinci large needle drivers and a pegboard with pegs.
 
-<img src="./AMBF-screenshot.jpg" alt="AMBF Simulation" style="width:350px">
+<img src="./AMBF-screenshot.jpg" alt="AMBF Simulation" style="width:600px">
 
 ### Real Setup
 
 There will be two PSMs from the [da Vinci Research Kit (dVRK)](https://dvrk.readthedocs.io/main/), mounted on a fixed frame. A large needle driver (LND) will be installed in each PSM. We will use a fixed stereo camera (TBD) to emulate a modern clinical endoscope (which has better image quality than the standard dVRK endoscope). A pegboard with pegs will be positioned between the two PSMs.
+
+The real setup will use two computers:  one connected to the dVRK controllers via FireWire, and one connected to the stereo camera and the Quest 3 (for human teleoperation trials). The two computers will be connected together via a local network.
 
 ## Rules
 
