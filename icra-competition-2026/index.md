@@ -13,10 +13,29 @@ The most prevalent surgical robot in operating rooms today is the da Vinci Surgi
 We will have two challenges, both using the peg transfer task.
 In this task, the user picks up a peg from a post (with the non-dominant hand) and transfers it to another post, often with an intervening handoff between the left and right instruments without dropping the peg. This task (originating from the Fundamentals of Laparoscopic Surgery) is widely used in robotic surgery training to improve robotic manipulation skills, but is simple enough that anyone can learn it.
 
-1. **Human teleoperated peg transfer:** the competitor uses an input device to teleoperate a real or simulated dVRK to transfer as many pegs as possible within the time limit.
+1. **Human teleoperated peg transfer:** the competitor uses an input device (Meta Quest 3) to teleoperate a real or simulated dVRK to transfer as many pegs as possible within the time limit.
 
 2. **Autonomous peg transfer:** the competitor (or team) provides an AI algorithm to move a real or
 simulated dVRK to transfer as many pegs as possible within the time limit. The algorithm must interface with the real or simulated dVRK using ROS2.
+
+## Environments
+
+We will have both simulated and physical setups on the competition floor. The intent is for the two setups to be as similar as possible.
+
+The Patient Side Manipulators (PSMs) and camera will not be moved and we will provide all transformations between them, including stereo camera calibration (intrinsic and extrinsic parameters). The peg board location will not be provided and may move during the competition.
+
+### Simulation Setup
+
+There will be two computers running simulated environments: one based on the [Asynchronous Multi-Body Framework (AMBF)](https://github.com/WPI-AIM/ambf) and the other TBD (might also be AMBF). All simulation assets will be available through the
+[Surgical Robotics Challenge Assets](https://github.com/surgical-robotics-ai/surgical_robotics_challenge).
+
+The simulation environment will be similar to the one below. There will be two da Vinci large needle drivers and a pegboard with pegs.
+
+<img src="./AMBF-screenshot.jpg" alt="AMBF Simulation" style="width:350px">
+
+### Real Setup
+
+There will be two PSMs from the [da Vinci Research Kit (dVRK)](https://dvrk.readthedocs.io/main/), mounted on a fixed frame. A large needle driver (LND) will be installed in each PSM. We will use a fixed stereo camera (TBD) to emulate a modern clinical endoscope (which has better image quality than the standard dVRK endoscope). A pegboard with pegs will be positioned between the two PSMs.
 
 ## Rules
 
@@ -43,6 +62,8 @@ least amount of PSM motion will be declared the winner.
 
 **November 16, 2025:** Website created
 
+**May 11, 2026:** Details added
+
 ## Timeline
 
 **Tues, June 2, 2026:** Human teleoperation competition (9 AM - 6 PM)
@@ -51,9 +72,27 @@ least amount of PSM motion will be declared the winner.
 
 **Thurs, June 4, 2026:** Autonomous competition (9 AM - 4 PM), Award ceremony, 4:45 PM (Hall C5)
 
+## Registration (ICRA and Competition)
+
+All competitors must be registered for ICRA. In addition, teams interested in the Autonomous competition register for the challenge, using the link TBA. Registration will give access to the calendar for scheduling practice time with the system.
+
+The Human Teleoperation challenge is only open to individuals (not teams) and there is no registration for the challenge--just show up and give it your best!
+
+If you would like to participate in any of the challenges, but are not registered for ICRA, a 'competition only' registration rate may be available (please contact us to check).
+
 ## Awards
 
-TBA
+We plan to have prizes for the top performers in the following categories:
+
+| Competition               | 1st place  | 2nd place  | 3rd place  |
+|---------------------------|------------|------------|------------|
+| Human teleoperation, Sim  |     6X     |    3X      |     X      |
+| Human teleoperation, Real |     6X     |    3X      |     X      |
+| Autonomous AI, Sim        |    12X     |    6X      |    2X      |
+| Autonomous AI, Real       |    18X     |    9X      |    3X      |
+
+In the above, X represents the base amount of the award, with the total amount awarded being 70X.
+Once the prize budget is finalized, we will announce the value of X.
 
 ## Contact
 
