@@ -25,26 +25,28 @@ Both setups will use Ubuntu 24.04 and ROS 2.
 
 The Patient Side Manipulators (PSMs) and camera will not be moved and we will provide all transformations between them, including stereo camera calibration (intrinsic and extrinsic parameters). The peg board location will not be provided and may move during the competition.
 
+Each setup will include a Meta Quest 3 connected to the computer via an Ethernet/USB-C adapter. This tethered configuration was chosen to avoid potential issues with WiFi connections in the exhibit hall, and to allow continuous charging of the devices.
+
 
 ### Simulation Setup
 
-There will be two computers running simulated environments: one based on the [Asynchronous Multi-Body Framework (AMBF)](https://github.com/WPI-AIM/ambf) and the other TBD (might also be AMBF). All simulation assets will be available through the
+There will be two computers running simulated environments: one based on the [Asynchronous Multi-Body Framework (AMBF)](https://github.com/WPI-AIM/ambf) and the other is expected to use Isaac Sim (with AMBF as a backup). All simulation assets will be available through the
 [Surgical Robotics Challenge Assets](https://github.com/surgical-robotics-ai/surgical_robotics_challenge).
 
-The simulation environment will be similar to the one below. There will be two da Vinci large needle drivers and a pegboard with pegs.
+The simulation environment will be similar to the one below. There will be two da Vinci large needle drivers and a pegboard with three pegs. Each peg will be a different color. There will be obstacles on the pegboard.
 
 <img src="./AMBF-screenshot.jpg" alt="AMBF Simulation" style="width:600px">
 
 ### Real Setup
 
-There will be two PSMs from the [da Vinci Research Kit (dVRK)](https://dvrk.readthedocs.io/main/), mounted on a fixed frame. A large needle driver (LND) will be installed in each PSM. We will use a fixed stereo camera (TBD) to emulate a modern clinical endoscope (which has better image quality than the standard dVRK endoscope). A pegboard with pegs will be positioned between the two PSMs.
+There will be two PSMs from the first-generation [da Vinci Research Kit (dVRK)](https://dvrk.readthedocs.io/main/), mounted on a fixed frame. A large needle driver (LND) will be installed in each PSM. We will use a fixed stereo camera (OAK-D-SR) to emulate a modern clinical endoscope (which has better image quality than the standard dVRK endoscope). A pegboard with pegs will be positioned between the two PSMs.
 
 The real setup will use two computers:  one connected to the dVRK controllers via FireWire, and one connected to the stereo camera and the Quest 3 (for human teleoperation trials). The two computers will be connected together via a local network.
 
 ## Rules
 
 - All competitors must sign a release form to allow their data to be collected and shared with the community.
-- All pegs will start on posts on the left side of the workspace and must be transferred to posts on the right side.
+- All 3 pegs will start on posts on the left side of the workspace and must be transferred to posts on the right side, with a handoff from one instrument to the other.
 Once all pegs are on the right side, the competitor must move them to the left side, and go back and forth until the
 3-minute time limit expires.
 - One point is awarded for each peg that is successfully placed on a post.
@@ -54,6 +56,7 @@ Once all pegs are on the right side, the competitor must move them to the left s
 - If there is a hardware or software failure during a trial, the participant will be allowed to restart.
 - There is no limit to the number of trials each competitor may attempt, but once a trial is completed,
 the competitor must allow any other competitors to use the system.
+- Competitors may participate in any of the challenges, but can win at most one award in each challenge. For example, if a competitor has the top three scores in the "Human Teleoperation, Real" challenge, they will be awarded first place, but will not receive the second or third place awards.
 
 ## Assessment
 
@@ -86,17 +89,21 @@ If you would like to participate in any of the challenges, but are not registere
 
 ## Awards
 
-We plan to have prizes for the top performers in the following categories:
+The top performers in the following categories will receive prizes (in Euros) and a certificate at the awards ceremony:
 
-| Competition               | 1st place  | 2nd place  | 3rd place  |
-|---------------------------|------------|------------|------------|
-| Human teleoperation, Sim  |     6X     |    3X      |     X      |
-| Human teleoperation, Real |     6X     |    3X      |     X      |
-| Autonomous AI, Sim        |    12X     |    6X      |    2X      |
-| Autonomous AI, Real       |    18X     |    9X      |    3X      |
+| Competition                    | 1st place  | 2nd place  | 3rd place  | Total |
+|--------------------------------|------------|------------|------------|-------|
+| Human Teleoperation, AMBF Sim  |     125    |     50     |     25     |  200  |
+| Human Teleoperation, Isaac Sim |     125    |     50     |     25     |  200  |
+| Human Teleoperation, Real      |     250    |    100     |     50     |  400  |
+| Autonomous AI, AMBF Sim        |     300    |    150     |     50     |  500  |
+| Autonomous AI, Isaac Sim       |     300    |    150     |     50     |  500  |
+| Autonomous AI, Real            |     600    |    300     |    100     | 1000  |
+| TOTAL                          |            |            |            | 2800  |
 
-In the above, X represents the base amount of the award, with the total amount awarded being 70X.
-Once the prize budget is finalized, we will announce the value of X.
+The prizes will be given as Virtual Visa gift cards, a few weeks after the conclusion of the competition.
+
+**Note:** If the second simulation environment uses AMBF instead of Isaac Sim, the Sim categories will be combined.
 
 ## Contact
 
