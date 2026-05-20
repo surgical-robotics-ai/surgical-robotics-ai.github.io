@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Rules
 
 - All competitors must sign a release form to allow their data to be collected and shared with the community.
