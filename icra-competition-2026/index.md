@@ -17,24 +17,23 @@ We have increased the task difficulty by introducing a barrier (wall) in between
 
 1. **Human teleoperated peg transfer:** the competitor uses an input device (Meta Quest 3) to teleoperate a real or simulated dVRK to transfer as many pegs as possible within the time limit.
 
-2. **Autonomous peg transfer:** the competitor (or team) provides an AI algorithm to move a real or simulated dVRK to transfer as many pegs as possible within the time limit. The algorithm must interface with the real or simulated dVRK using ROS2.
+2. **Autonomous peg transfer:** the competitor (or team) provides an AI algorithm to move a real or simulated dVRK to transfer as many pegs as possible within the time limit. The algorithm must interface with the real or simulated dVRK using ROS2. The ROS2 API is documented [here](./ros2-api.html).
+
 
 ## Environments
 
 We will have both simulated and physical setups on the competition floor. The intent is for the two setups to be as similar as possible.
 Both setups will use Ubuntu 24.04 and ROS 2.
 
-The Patient Side Manipulators (PSMs) and camera will not be moved and we will provide all transformations between them, including stereo camera calibration (intrinsic and extrinsic parameters). The peg board location will not be provided and may move during the competition.
+The Patient Side Manipulators (PSMs) and camera will not be moved and (for the autonomous competition) we will provide all transformations between them, including stereo camera calibration (intrinsic and extrinsic parameters). The peg board location will not be provided and may move during the competition.
 
-Each setup will include a Meta Quest 3 connected to the computer via an Ethernet/USB-C adapter. This tethered configuration was chosen to avoid potential issues with WiFi connections in the exhibit hall, and to allow continuous charging of the devices.
+Each setup will include a Meta Quest 3 connected to the computer via an Ethernet/USB-C adapter. This tethered configuration was chosen to avoid potential issues with WiFi connections in the exhibit hall, and to allow continuous charging of the devices. For the autonomous competition trials, the Quest 3 can be disconnected, if requested.
 
 Following are details about the three different environments:
 
 * [AMBF Simulation Setup](./ambf-setup.html)
 * [Isaac Sim Setup](./isaac-setup.html)
 * [Physical dVRK Setup](./dvrk-setup.html)
-
-The ROS2 API for all three setups is the same, and is documented here:  TBD
 
 ## Competition Rules and Assessment
 
