@@ -32,8 +32,6 @@ We will create a separate login account for your team, using the account name re
 
 Following are the specifications for the Video PC (HP ZBook):
 
-|     |                              |
-|:----|:-----------------------------|
 | CPU | Intel Core Ultra 7 256HX, 2600 Mhz, 20 Cores }
 | GPU | NVIDIA RTX PRO 1000, 8GB     |
 | RAM | 32GB                         |
