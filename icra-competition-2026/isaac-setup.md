@@ -4,6 +4,13 @@ layout: default
 
 ## IsaacSim Setup
 
+[Isaac Sim Version 5.1.0](https://docs.isaacsim.omniverse.nvidia.com/5.1.0/index.html)
+and the corresponding
+[Surgical Robotics Challenge Assets (`ros2` branch)](https://github.com/surgical-robotics-ai/isaac-sim-surgical-robotics-challenge/tree/ros2)
+will be installed on the IsaacSim PC in the competition area.
+
+The simulation environment will contain two da Vinci large needle drivers and a pegboard with posts on either side of a large wall. There will be three pegs, each with a different color.
+
 The virtual stereo camera emulates the OAK-D-SR camera used in [Physical dVRK setup](./dvrk-setup.html). In particular, the stereo baseline is 20 mm, the FOV is 80 deg (H), 55 deg (V), and the resolution is 1280 x 800.
 
 ## Human Teleoperation Peg Transfer Challenge
@@ -35,6 +42,6 @@ In addition to ROS2, IsaacSim, and the Surgical Robotics Challenge Assets, the f
 ## Offline Development and Testing
 
 If you wish to create the IsaacSim environment on your own computer, please follow the detailed instructions
-[here (ros2 branch)](https://github.com/surgical-robotics-ai/isaac-sim-surgical-robotics-challenge/tree/ros2)
+[here (`ros2` branch)](https://github.com/surgical-robotics-ai/isaac-sim-surgical-robotics-challenge/tree/ros2)
 
 We recommend using ROS2 on Ubuntu 24.04.
