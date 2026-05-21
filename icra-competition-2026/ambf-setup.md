@@ -35,9 +35,9 @@ We will create a separate login account for your team, using the account name re
 
 Following are the specifications for the AMBF Simulation computer (subject to change):
 
-| CPU | AMD Ryzen 5 3600X, 12 Cores  |
-| GPU | NVIDIA GeForce GTX1660S, 6GB |
-| RAM | 8GB                          |
+| CPU | 12th Gen Intel Core i7-12700, 20 cores |
+| GPU | NVIDIA GeForce RTX 3060, 12GB |
+| RAM | 64GB                          |
 
 In addition to ROS2, AMBF, and the Surgical Robotics Challenge Assets, the following packages will be installed: TBD
 

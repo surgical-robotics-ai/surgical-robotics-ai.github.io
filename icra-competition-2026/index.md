@@ -43,9 +43,7 @@ Following are details about the three different environments:
 
 **November 16, 2025:** Website created
 
-**May 11, 2026:** Details added
-
-**May 19, 2026:** More details added
+**May 21, 2026:** Please register for the Autonomous Competition using [this form](https://forms.gle/VY5pCVQ9hkyScYnr5) (do not register if you will only participate in the Human Teleoperated Competition)
 
 ## Timeline
 
@@ -57,7 +55,7 @@ Following are details about the three different environments:
 
 ## Registration (ICRA and Competition)
 
-All competitors must be registered for [ICRA](https://2026.ieee-icra.org/). In addition, teams interested in the Autonomous competition register for the challenge, using the link TBA. Registration will give access to the calendar for scheduling time to test your algorithm on the physical or simulated system.
+All competitors must be registered for [ICRA](https://2026.ieee-icra.org/). In addition, teams interested in the Autonomous competition register for the challenge, using [this form](https://forms.gle/VY5pCVQ9hkyScYnr5). Registration will give access to the calendar for scheduling time to test your algorithm on the physical or simulated system.
 
 The Human Teleoperation challenge is only open to individuals (not teams) and there is no registration for the challenge--just show up and give it your best!
 

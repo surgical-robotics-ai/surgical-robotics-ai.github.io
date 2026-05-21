@@ -33,9 +33,9 @@ We will create a separate login account for your team, using the account name re
 
 Following are the specifications for the IsaacSim computer (subject to change):
 
-| CPU | 12th Gen Intel Core i7-12700, 20 cores |
-| GPU | NVIDIA GeForce RTX 3060, 12GB |
-| RAM | 64GB                          |
+| CPU |   |
+| GPU |   |
+| RAM |   |
 
 In addition to ROS2, IsaacSim, and the Surgical Robotics Challenge Assets, the following packages will be installed: TBD
 
