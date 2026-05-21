@@ -10,7 +10,7 @@ The most prevalent surgical robot in operating rooms today is the da Vinci Surgi
 
 ## Challenges
 
-We will have two challenges, both using the peg transfer task.
+There are two challenges, both using the peg transfer task.
 In this task, the user picks up a peg from a post (with the non-dominant hand) and transfers it to another post, often with an intervening handoff between the left and right instruments without dropping the peg. This task (originating from the Fundamentals of Laparoscopic Surgery) is widely used in robotic surgery training to improve robotic manipulation skills, but is simple enough that anyone can learn it.
 
 We have increased the task difficulty by introducing a barrier (wall) in between the left and right sides of the pegboard. This barrier, and workspace constraints, make it impossible to perform the task without a handoff between the two instruments.
@@ -22,12 +22,12 @@ We have increased the task difficulty by introducing a barrier (wall) in between
 
 ## Environments
 
-We will have both simulated and physical setups on the competition floor. The intent is for the two setups to be as similar as possible.
-Both setups will use Ubuntu 24.04 and ROS 2.
+We have simulated and physical setups on the competition floor. The intent is for the two setups to be as similar as possible.
+Both setups use Ubuntu 24.04 and ROS 2.
 
 The Patient Side Manipulators (PSMs) and camera will not be moved and (for the autonomous competition) we will provide all transformations between them, including stereo camera calibration (intrinsic and extrinsic parameters). The peg board location will not be provided and may move during the competition.
 
-Each setup will include a Meta Quest 3 connected to the computer via an Ethernet/USB-C adapter. This tethered configuration was chosen to avoid potential issues with WiFi connections in the exhibit hall, and to allow continuous charging of the devices. For the autonomous competition trials, the Quest 3 can be disconnected, if requested.
+Each setup includes a Meta Quest 3 connected to the computer via an Ethernet/USB-C adapter. This tethered configuration was chosen to avoid potential issues with WiFi connections in the exhibit hall, and to allow continuous charging of the devices. For the autonomous competition trials, the Quest 3 can be disconnected, if requested.
 
 Following are details about the three different environments:
 
@@ -57,7 +57,7 @@ Following are details about the three different environments:
 
 ## Registration (ICRA and Competition)
 
-All competitors must be registered for ICRA. In addition, teams interested in the Autonomous competition register for the challenge, using the link TBA. Registration will give access to the calendar for scheduling time to test your algorithm on the physical or simulated system.
+All competitors must be registered for [ICRA](https://2026.ieee-icra.org/). In addition, teams interested in the Autonomous competition register for the challenge, using the link TBA. Registration will give access to the calendar for scheduling time to test your algorithm on the physical or simulated system.
 
 The Human Teleoperation challenge is only open to individuals (not teams) and there is no registration for the challenge--just show up and give it your best!
 
@@ -84,6 +84,13 @@ The prizes will be given as Virtual Visa gift cards, a few weeks after the concl
 ## Contact
 
 To contact the organizers by email: [accelnet-robotics-challenge-admin@googlegroups.com](mailto:accelnet-robotics-challenge-admin@googlegroups.com)
+
+## Organizers
+
+| **Peter Kazanzides**, **Adnan Munawar**  | **Loris Fichera**       |
+| Johns Hopkins University                 | Worcester Polytechnic Institute |
+| **Tamas Haidegger**                      | **Thomas Looi**      |
+| Obuda University                         | Hospital for Sick Children |
 
 ## Acknowledgments
 
