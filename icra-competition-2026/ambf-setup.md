@@ -7,7 +7,7 @@ layout: default
 The [Asynchronous Multi-Body Framework (AMBF)](https://github.com/WPI-AIM/ambf)
 simulator, Version 3.0, along with the
 [Surgical Robotics Challenge Assets](https://github.com/surgical-robotics-ai/surgical_robotics_challenge), icra2026-challenge branch,
-will be installed on the AMBF Simulation PC in the competition area..
+will be installed on the AMBF Simulation PC in the competition area.
 
 The simulation environment will be similar to the one below. There will be two da Vinci large needle drivers and a pegboard with posts on either side of a large wall. There will be three pegs, each with a different color.
 
@@ -27,13 +27,19 @@ Competitors for the Autonomous Peg Transfer Challenge should consider one or mor
 
 ### Option 1: Run your algorithm on your own computer
 
-Your computer should be running ROS2 Jazzy(?) and can interface to the AMBF simulation computer via a local area connection.
+Your computer should be running ROS2 Jazzy and can interface to the AMBF simulation computer via a local area connection.
 
 ### Option 2: Run your algorithm on the AMBF Simulation computer
 
 We will create a separate login account for your team, using the account name requested on the registration form.
 
-Following are the specifications for the AMBF Simulation computer: TBD
+Following are the specifications for the AMBF Simulation computer (subject to change):
+
+|     |                              |
+|:----|:-----------------------------|
+| CPU | AMD Ryzen 5 3600X, 12 Cores  |
+| GPU | NVIDIA GeForce GTX1660S, 6GB |
+| RAM | 8GB                          |
 
 In addition to ROS2, AMBF, and the Surgical Robotics Challenge Assets, the following packages will be installed: TBD
 

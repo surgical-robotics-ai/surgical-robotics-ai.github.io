@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+## IsaacSim Setup
+
+The virtual stereo camera emulates the OAK-D-SR camera used in [Physical dVRK setup](./dvrk-setup.html). In particular, the stereo baseline is 20 mm, the FOV is 80 deg (H), 55 deg (V), and the resolution is 1280 x 800.
+
+## Human Teleoperation Peg Transfer Challenge
+
+No preparation is necessary -- please come to the competition area and give it a try!
+
+You will use a Quest 3 HMD, with hand controllers, as the interface to control the simulated PSMs.
+
+## Autonomous Peg Transfer Challenge
+
+Competitors for the Autonomous Peg Transfer Challenge should consider one or more of the following options:
+
+### Option 1: Run your algorithm on your own computer
+
+Your computer should be running ROS2 Jazzy and can interface to the IsaacSim computer via a local area connection.
+
+### Option 2: Run your algorithm on the IsaacSim computer
+
+We will create a separate login account for your team, using the account name requested on the registration form.
+
+Following are the specifications for the IsaacSim computer (subject to change):
+
+|     |                               |
+|:----|:------------------------------|
+| CPU | 12th Gen Intel Core i7-12700, 20 cores |
+| GPU | NVIDIA GeForce RTX 3060, 12GB |
+| RAM | 64GB                          |
+
+In addition to ROS2, IsaacSim, and the Surgical Robotics Challenge Assets, the following packages will be installed: TBD
+
+## Offline Development and Testing
+
+If you wish to create the IsaacSim environment on your own computer, please follow the detailed instructions
+[here (ros2 branch)](https://github.com/surgical-robotics-ai/isaac-sim-surgical-robotics-challenge/tree/ros2)
+
+We recommend using ROS2 on Ubuntu 24.04.

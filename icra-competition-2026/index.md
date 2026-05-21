@@ -31,7 +31,7 @@ Each setup will include a Meta Quest 3 connected to the computer via an Ethernet
 Following are details about the three different environments:
 
 * [AMBF Simulation Setup](./ambf-setup.html)
-* Isaac Sim Setup
+* [Isaac Sim Setup](./isaac-setup.html)
 * [Physical dVRK Setup](./dvrk-setup.html)
 
 The ROS2 API for all three setups is the same, and is documented here:  TBD
