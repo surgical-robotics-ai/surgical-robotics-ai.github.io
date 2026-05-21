@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Rules and Assessment
 ---
 
 ## Rules
@@ -22,4 +23,4 @@ the competitor must allow any other competitors to use the system.
 - Performance will be assessed by the number of points (i.e., number of successfully placed pegs) within the
 time limit.
 - If multiple participants have the same number of points, the one who performed the task with the
-least amount of PSM motion will be declared the winner.
+least amount of time will be declared the winner. This will be determined by the time at which the last successful peg was placed (i.e., stopped moving in the video recording).
