@@ -6,7 +6,7 @@ layout: default
 
 The [Asynchronous Multi-Body Framework (AMBF)](https://github.com/WPI-AIM/ambf)
 simulator, Version 3.0, along with the
-[Surgical Robotics Challenge Assets](https://github.com/surgical-robotics-ai/surgical_robotics_challenge), icra2026-challenge branch,
+[Surgical Robotics Challenge Assets (`icra2026-challenge` branch)](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/tree/icra2026-challenge),
 will be installed on the AMBF Simulation PC in the competition area.
 
 The simulation environment will be similar to the one below. There will be two da Vinci large needle drivers and a pegboard with posts on either side of a large wall. There will be three pegs, each with a different color.
@@ -33,7 +33,7 @@ Your computer should be running ROS2 Jazzy and can interface to the AMBF simulat
 
 We will create a separate login account for your team, using the account name requested on the registration form.
 
-Following are the specifications for the AMBF Simulation computer (subject to change):
+Following are the specifications for the AMBF Simulation computer:
 
 | CPU | 12th Gen Intel Core i7-12700, 20 cores |
 | GPU | NVIDIA GeForce RTX 3060, 12GB |

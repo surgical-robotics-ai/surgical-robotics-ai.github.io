@@ -31,7 +31,7 @@ Your computer should be running ROS2 Jazzy and can interface to the IsaacSim com
 
 We will create a separate login account for your team, using the account name requested on the registration form.
 
-Following are the specifications for the IsaacSim computer (subject to change):
+Following are the specifications for the IsaacSim computer (Alienware laptop):
 
 | CPU |   |
 | GPU |   |

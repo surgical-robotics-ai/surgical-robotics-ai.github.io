@@ -88,7 +88,8 @@ To contact the organizers by email: [accelnet-robotics-challenge-admin@googlegro
 | **Peter Kazanzides**, **Adnan Munawar**  | **Loris Fichera**       |
 | Johns Hopkins University                 | Worcester Polytechnic Institute |
 | **Tam&aacute;s Haidegger**               | **Thomas Looi**      |
-| Obuda University                         | Hospital for Sick Children |
+| Obuda University                         | Hospital for Sick Children, |
+|                                          | University of Toronto |
 
 ## Acknowledgments
 
