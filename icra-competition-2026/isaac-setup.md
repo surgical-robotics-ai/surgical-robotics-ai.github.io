@@ -33,9 +33,9 @@ We will create a separate login account for your team, using the account name re
 
 Following are the specifications for the IsaacSim computer (Alienware laptop):
 
-| CPU |   |
-| GPU |   |
-| RAM |   |
+| CPU | Intel i7 11th gen 2.3GHz 8 cores, 16 threads |
+| GPU | RTX 3080 8GB |
+| RAM | 32GB |
 
 In addition to ROS2, IsaacSim, and the Surgical Robotics Challenge Assets, the following packages will be installed: TBD
 
