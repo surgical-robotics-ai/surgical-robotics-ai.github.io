@@ -9,7 +9,7 @@ and the corresponding
 [Surgical Robotics Challenge Assets (`ros2` branch)](https://github.com/surgical-robotics-ai/isaac-sim-surgical-robotics-challenge/tree/ros2)
 will be installed on the IsaacSim PC in the competition area.
 
-The simulation environment will contain two da Vinci large needle drivers and a pegboard with posts on either side of a large wall. There will be three pegs, each with a different color.
+The simulation environment will contain two da Vinci large needle drivers and a pegboard with posts on either side of a large wall. There will be two pegs, each with a different color (blue or red).
 
 The virtual stereo camera emulates the OAK-D-SR camera used in [Physical dVRK setup](./dvrk-setup.html). In particular, the stereo baseline is 20 mm, the FOV is 80 deg (H), 55 deg (V), and the resolution is 1280 x 800.
 
