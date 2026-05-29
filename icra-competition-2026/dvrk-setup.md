@@ -14,7 +14,7 @@ The physical setup will use two computers:  (1) dVRK PC, connected to the dVRK c
 
 Following is a photo of the Physical dVRK setup:
 
-<img src="./dvrk-setup.jpg" alt="dVRK Setup" style="width:800px">
+<img src="./dvrk-setup.jpg" alt="dVRK Setup" style="width:700px">
 
 ## Human Teleoperation Peg Transfer Challenge
 
