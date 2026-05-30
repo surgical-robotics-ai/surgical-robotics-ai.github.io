@@ -39,7 +39,7 @@ Following are the specifications for the AMBF Simulation computer:
 | GPU | NVIDIA GeForce RTX 3060, 12GB |
 | RAM | 64GB                          |
 
-In addition to ROS2, AMBF, and the Surgical Robotics Challenge Assets, the following packages will be installed: TBD
+Packages Installed: ROS2, AMBF, Surgical Robotics Challenge Assets
 
 ## Offline Development and Testing
 

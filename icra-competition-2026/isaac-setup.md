@@ -37,7 +37,7 @@ Following are the specifications for the IsaacSim computer (Alienware laptop):
 | GPU | RTX 3080 8GB |
 | RAM | 32GB |
 
-In addition to ROS2, IsaacSim, and the Surgical Robotics Challenge Assets, the following packages will be installed: TBD
+Packages Installed: ROS2, IsaacSim, Surgical Robotics Challenge Assets
 
 ## Offline Development and Testing
 

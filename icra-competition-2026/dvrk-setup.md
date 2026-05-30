@@ -40,7 +40,7 @@ Following are the specifications for the Video PC (HP ZBook):
 | GPU | NVIDIA RTX PRO 1000, 8GB     |
 | RAM | 32GB                         |
 
-In addition to ROS2, the following packages will be installed: TBD
+Packages installed: ROS2
 
 ## Video Specifications
 
