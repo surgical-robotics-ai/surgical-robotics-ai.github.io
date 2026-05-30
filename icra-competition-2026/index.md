@@ -4,6 +4,8 @@ layout: default
 
 # ICRA 2026 Competition: AI for Robotic Surgery
 
+<img src="./Overview.svg" alt="Competition Overview" style="width:800px">
+
 Surgical robotics is entering an exciting new era where the integration of artificial intelligence (AI) promises to improve the performance of human surgeons, and to address the growing shortage of surgeons and other medical personnel, thereby improving healthcare for all.
 
 The most prevalent surgical robot in operating rooms today is the da Vinci Surgical System (Intuitive Surgical, Sunnyvale, CA), which has an installed base of more than 10,000 systems. The competition will use the da Vinci Research Kit (dVRK), an open-source research platform that re-purposes the mechanical hardware from retired clinical da Vinci Surgical Systems.
