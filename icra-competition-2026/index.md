@@ -21,7 +21,7 @@ We have increased the task difficulty by introducing a barrier (wall) in between
 
 1. **Human teleoperated peg transfer:** the competitor uses an input device (Meta Quest 3) to teleoperate a real or simulated dVRK to transfer as many pegs as possible within the time limit.
 
-2. **Autonomous peg transfer:** the competitor (or team) provides an AI algorithm to move a real or simulated dVRK to transfer as many pegs as possible within the time limit. The algorithm must interface with the real or simulated dVRK using ROS2. The ROS2 API is documented [here](./ros2-api.html).
+2. **Autonomous peg transfer:** the competitor (or team) provides an AI algorithm to move a real or simulated dVRK to transfer as many pegs as possible within the time limit. The algorithm must interface with the real or simulated dVRK using ROS2 (API documented [here](./ros2-api.html)). Registration is required ([link](https://forms.gle/VY5pCVQ9hkyScYnr5)).
 
 During the competition, data recorded (with informed consent) from the human teleoperated peg transfer challenge will be uploaded to a server to support development of algorithms for the autonomous peg transfer challenge.
 
