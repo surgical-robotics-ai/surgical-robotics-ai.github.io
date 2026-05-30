@@ -6,9 +6,11 @@ layout: default
 
 <img src="./Overview.svg" alt="Competition Overview">
 
+## Overview
+
 Surgical robotics is entering an exciting new era where the integration of artificial intelligence (AI) promises to improve the performance of human surgeons, and to address the growing shortage of surgeons and other medical personnel, thereby improving healthcare for all.
 
-The most prevalent surgical robot in operating rooms today is the da Vinci Surgical System (Intuitive Surgical, Sunnyvale, CA), which has an installed base of more than 10,000 systems. The competition will use the da Vinci Research Kit (dVRK), an open-source research platform that re-purposes the mechanical hardware from retired clinical da Vinci Surgical Systems.
+The most prevalent surgical robot in operating rooms today is the da Vinci Surgical System (Intuitive Surgical, Sunnyvale, CA), which has an installed base of more than 10,000 systems. The competition will use the da Vinci Research Kit (dVRK), an open-source research platform that re-purposes the mechanical hardware from retired clinical da Vinci Surgical Systems, as well as simulators based on this platform.
 
 ## Challenges
 
@@ -21,13 +23,14 @@ We have increased the task difficulty by introducing a barrier (wall) in between
 
 2. **Autonomous peg transfer:** the competitor (or team) provides an AI algorithm to move a real or simulated dVRK to transfer as many pegs as possible within the time limit. The algorithm must interface with the real or simulated dVRK using ROS2. The ROS2 API is documented [here](./ros2-api.html).
 
+During the competition, data recorded (with informed consent) from the human teleoperated peg transfer challenge will be uploaded to a server to support development of algorithms for the autonomous peg transfer challenge.
 
 ## Environments
 
 We have simulated and physical setups on the competition floor. The intent is for the two setups to be as similar as possible.
 Both setups use Ubuntu 24.04 and ROS 2.
 
-The Patient Side Manipulators (PSMs) and camera will not be moved and (for the autonomous competition) we will provide all transformations between them, including stereo camera calibration (intrinsic and extrinsic parameters). The peg board location will not be provided and may move during the competition.
+The Patient Side Manipulators (PSMs) and camera will not be moved and (for the autonomous competition) we will provide all transformations between them, including stereo camera calibration (intrinsic and extrinsic parameters). The peg board location will not be provided and may be moved during the competition.
 
 Each setup includes a Meta Quest 3 connected to the computer via an Ethernet/USB-C adapter. This tethered configuration was chosen to avoid potential issues with WiFi connections in the exhibit hall, and to allow continuous charging of the devices. For the autonomous competition trials, the Quest 3 can be disconnected, if requested.
 
@@ -46,6 +49,8 @@ Following are details about the three different environments:
 **November 16, 2025:** Website created
 
 **May 21, 2026:** Please register for the Autonomous Competition using [this form](https://forms.gle/VY5pCVQ9hkyScYnr5) (do not register if you will only participate in the Human Teleoperated Competition)
+
+**May 30, 2026:** Added overview figure, and more details about competition
 
 ## Timeline
 
@@ -78,8 +83,6 @@ The top performers in the following categories will receive prizes (in Euros) an
 | TOTAL                          |            |            |            | 2800  |
 
 The prizes will be given as Virtual Visa gift cards, a few weeks after the conclusion of the competition.
-
-**Note:** If the second simulation environment uses AMBF instead of Isaac Sim, the Sim categories will be combined.
 
 ## Contact
 

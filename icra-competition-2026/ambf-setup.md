@@ -7,9 +7,9 @@ layout: default
 The [Asynchronous Multi-Body Framework (AMBF)](https://github.com/WPI-AIM/ambf)
 simulator, Version 3.0, along with the
 [Surgical Robotics Challenge Assets (`icra2026-challenge` branch)](https://github.com/surgical-robotics-ai/surgical_robotics_challenge/tree/icra2026-challenge),
-will be installed on the AMBF Simulation PC in the competition area.
+are installed on the AMBF Simulation PC in the competition area.
 
-The simulation environment will be similar to the one below. There will be two da Vinci large needle drivers and a pegboard with posts on either side of a large wall. There will be two pegs, each with a different color (blue or red).
+The simulation environment is similar to the one below. There are two da Vinci large needle drivers and a pegboard with posts on either side of a large wall. There are two pegs, each with a different color (blue or red).
 
 The virtual stereo camera emulates the OAK-D-SR camera used in [Physical dVRK setup](./dvrk-setup.html). In particular, the stereo baseline is 20 mm, the FOV is 80 deg (H), 55 deg (V), and the resolution is 1280 x 800.
 

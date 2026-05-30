@@ -4,15 +4,15 @@ layout: default
 
 ## Physical dVRK Setup
 
-There will be two PSMs from the first-generation [da Vinci Research Kit (dVRK)](https://dvrk.readthedocs.io/main/), mounted on a fixed frame. A large needle driver (LND) will be installed in each PSM. We will use a fixed stereo camera (OAK-D-SR) to emulate a modern clinical endoscope (which has better image quality than the standard dVRK endoscope). A pegboard with pegs will be positioned between the two PSMs. There will be one blue peg and one red peg, as shown in the image below:
+There are two PSMs from the first-generation [da Vinci Research Kit (dVRK)](https://dvrk.readthedocs.io/main/), mounted on a fixed frame. A large needle driver (LND) is installed in each PSM. We are using a fixed stereo camera (OAK-D-SR) to emulate a modern clinical endoscope (which has better image quality than the standard dVRK endoscope). A pegboard with pegs is positioned between the two PSMs. There is one blue peg and one red peg, as shown in the image below:
 
 <img src="./peg-colors.jpg" alt="Peg colors" style="width:250px">
 
-The physical setup will use two computers:  (1) dVRK PC, connected to the dVRK controllers via FireWire, and (2) Video PC, connected to the stereo camera and Quest 3 (for human teleoperation trials). The two computers will be connected together via a local network. A block diagram of the system is shown below (yes, we are aware that it looks strange to use two USB-to-Ethernet adapters, but there are some technical reasons for this).
+The physical setup uses two computers:  (1) dVRK PC, connected to the dVRK controllers via FireWire, and (2) Video PC, connected to the stereo camera and Quest 3 (for human teleoperation trials). The two computers are connected together via a local network. A block diagram of the system is shown below (yes, we are aware that it looks strange to use two USB-to-Ethernet adapters, but there are some technical reasons for this).
 
 <img src="./dVRK-BlockDiagram.svg" alt="dVRK Block Diagram" style="width:800px">
 
-Following is a photo of the Physical dVRK setup:
+Following is a photo of the Physical dVRK setup (from Obuda University):
 
 <img src="./dvrk-setup.jpg" alt="dVRK Setup" style="width:700px">
 
@@ -52,4 +52,4 @@ The physical setup uses an OAK-D-SR stereo camera instead of an endoscope. Speci
 
 Interface to the stereo video stream is provided through ROS topics.
 
-Although this camera can provide depth estimates using its onboard processing, this feature will not be available for the competition to preserve some similarity to a clinical endoscope. However, competitors are allowed to implement their own depth estimation using the stereo images.
+Although this camera can provide depth estimates using its onboard processing, this feature is not be available for the competition to preserve some similarity to a clinical endoscope. However, competitors are allowed to implement their own depth estimation using the stereo images.
