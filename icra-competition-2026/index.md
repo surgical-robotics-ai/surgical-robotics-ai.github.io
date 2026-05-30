@@ -4,7 +4,7 @@ layout: default
 
 # ICRA 2026 Competition: AI for Robotic Surgery
 
-<img src="./Overview.svg" alt="Competition Overview" style="width:800px">
+<img src="./Overview.svg" alt="Competition Overview">
 
 Surgical robotics is entering an exciting new era where the integration of artificial intelligence (AI) promises to improve the performance of human surgeons, and to address the growing shortage of surgeons and other medical personnel, thereby improving healthcare for all.
 
