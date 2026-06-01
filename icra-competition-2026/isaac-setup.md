@@ -13,6 +13,8 @@ The simulation environment contains two da Vinci large needle drivers and a pegb
 
 The virtual stereo camera emulates the OAK-D-SR camera used in [Physical dVRK setup](./dvrk-setup.html). In particular, the stereo baseline is 20 mm, the FOV is 80 deg (H), 55 deg (V), and the resolution is 1280 x 800.
 
+<img src="./IsaacSim-screenshot.jpg" alt="IsaacSim Simulation" style="width:600px">
+
 ## Human Teleoperation Peg Transfer Challenge
 
 No preparation is necessary -- please come to the competition area and give it a try!
