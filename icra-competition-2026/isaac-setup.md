@@ -6,7 +6,7 @@ layout: default
 
 [Isaac Sim Version 5.1.0](https://docs.isaacsim.omniverse.nvidia.com/5.1.0/index.html)
 and the corresponding
-[Surgical Robotics Challenge Assets (`ros2` branch)](https://github.com/surgical-robotics-ai/isaac-sim-surgical-robotics-challenge/tree/ros2)
+[Surgical Robotics Challenge Assets (`ICRA-Challenge-2026` branch)](https://github.com/surgical-robotics-ai/isaac-sim-surgical-robotics-challenge/tree/ICRA-Challenge-2026)
 are installed on the IsaacSim PC in the competition area.
 
 The simulation environment contains two da Vinci large needle drivers and a pegboard with posts on either side of a large wall. There are two pegs, each with a different color (blue or red).
@@ -43,6 +43,6 @@ Packages Installed: ROS2, IsaacSim, Surgical Robotics Challenge Assets
 ## Offline Development and Testing
 
 If you wish to create the IsaacSim environment on your own computer, please follow the detailed instructions
-[here (`ros2` branch)](https://github.com/surgical-robotics-ai/isaac-sim-surgical-robotics-challenge/tree/ros2)
+[here (`ICRA-Challenge-2026` branch)](https://github.com/surgical-robotics-ai/isaac-sim-surgical-robotics-challenge/tree/ICRA-Challenge-2026)
 
 We recommend using ROS2 on Ubuntu 24.04.
