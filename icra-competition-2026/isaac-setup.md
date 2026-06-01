@@ -21,7 +21,8 @@ You will use a Quest 3 HMD, with hand controllers, as the interface to control t
 
 ## Autonomous Peg Transfer Challenge
 
-Competitors for the Autonomous Peg Transfer Challenge should consider one or more of the following options:
+Competitors for the Autonomous Peg Transfer Challenge should develop algorithms that interface
+with the IsaacSim simulator, via the [ROS2 API](./ros2-api.html), using one of the following options:
 
 ### Option 1: Run your algorithm on your own computer
 
