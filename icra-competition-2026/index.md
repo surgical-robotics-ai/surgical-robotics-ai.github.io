@@ -23,7 +23,7 @@ We have increased the task difficulty by introducing a barrier (wall) in between
 
 2. **Autonomous peg transfer:** the competitor (or team) provides an AI algorithm to move a real or simulated dVRK to transfer as many pegs as possible within the time limit. The algorithm must interface with the real or simulated dVRK using ROS2 (API documented [here](./ros2-api.html)). Registration is required ([link](https://forms.gle/VY5pCVQ9hkyScYnr5)).
 
-During the competition, data recorded (with informed consent) from the human teleoperated peg transfer challenge will be uploaded to a server to support development of algorithms for the autonomous peg transfer challenge.
+During the competition, data recorded from the human teleoperated peg transfer challenge (with informed consent, in accordance with our [Privacy Policy](https://initium.uni-obuda.hu/wp-content/uploads/2026/05/GDPR_full_translation_Initium.pdf)) will be uploaded to a server to support development of algorithms for the autonomous peg transfer challenge. The link to the server will be shared with participants who have registered for the autonomous peg transfer challenge.
 
 ## Environments
 
