@@ -5,7 +5,7 @@ title: Rules and Assessment
 
 ## Rules
 
-- To be eligibe for an award, competitors must sign a release form to allow their data to be collected and shared with the community.
+- To be eligible for an award, competitors must sign a release form to allow their data to be collected and shared with the community.
 - All pegs will start on posts on the left side of the workspace and must be transferred to posts on the right side, with a handoff from one instrument to the other.
 Once all pegs are on the right side, the competitor must move them to the left side, and go back and forth until the
 3-minute time limit expires.

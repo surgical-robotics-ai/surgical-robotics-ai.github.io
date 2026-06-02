@@ -28,9 +28,10 @@ During the competition, data recorded from the human teleoperated peg transfer c
 ## Environments
 
 We have simulated and physical setups on the competition floor. The intent is for the two setups to be as similar as possible.
-Both setups use Ubuntu 24.04 and ROS 2.
+All setups use Ubuntu 24.04 and ROS 2.
 
-The Patient Side Manipulators (PSMs) and camera will not be moved and (for the autonomous competition) we will provide all transformations between them, including stereo camera calibration (intrinsic and extrinsic parameters). The peg board location will not be provided and may be moved during the competition.
+The Patient Side Manipulators (PSMs) and camera will not be intentionally moved (since the camera is in the workspace of the PSMs, it is sometimes inadvertently moved). The camera extrinsics are approximately known, so that the pose of each PSM is given with respect to the camera frame. We will provide the stereo camera intrinsic parameters.
+The peg board location will not be provided and may be moved during the competition.
 
 Each setup includes a Meta Quest 3 connected to the computer via an Ethernet/USB-C adapter. This tethered configuration was chosen to avoid potential issues with WiFi connections in the exhibit hall, and to allow continuous charging of the devices. For the autonomous competition trials, the Quest 3 can be disconnected, if requested.
 
