@@ -38,7 +38,7 @@ Each setup includes a Meta Quest 3 connected to the computer via an Ethernet/USB
 Following are details about the three different environments:
 
 * [AMBF Simulation Setup](./ambf-setup.html)
-* [Isaac Sim Setup](./isaac-setup.html)
+* [Isaac Sim Setup](./isaac-setup.html) -- for demonstration only
 * [Physical dVRK Setup](./dvrk-setup.html)
 
 ## Competition Rules and Assessment
@@ -53,7 +53,7 @@ Following are details about the three different environments:
 
 **May 30, 2026:** Added overview figure, and more details about competition
 
-**June 3, 2026:** Allow autonomous algorithms on dVRK to use two red pegs; minor rules change (allow trial to continue if one peg falls outside workspace)
+**June 3, 2026:** Allow autonomous algorithms on dVRK to use two red pegs; minor rules change (allow trial to continue if one peg falls outside workspace); IsaacSim setup for demonstration only (no competitions on this platform)
 
 ## Timeline
 
@@ -78,12 +78,12 @@ The top performers in the following categories will receive prizes (in Euros) an
 | Competition                    | 1st place  | 2nd place  | 3rd place  | Total |
 |--------------------------------|------------|------------|------------|-------|
 | Human Teleoperation, AMBF Sim  |     125    |     50     |     25     |  200  |
-| Human Teleoperation, Isaac Sim |     125    |     50     |     25     |  200  |
+| Human Teleoperation, Isaac Sim |     ---    |     --     |     --     |  ---  |
 | Human Teleoperation, Real      |     250    |    100     |     50     |  400  |
 | Autonomous AI, AMBF Sim        |     300    |    150     |     50     |  500  |
-| Autonomous AI, Isaac Sim       |     300    |    150     |     50     |  500  |
+| Autonomous AI, Isaac Sim       |     ---    |    ---     |     --     |  ---  |
 | Autonomous AI, Real            |     600    |    300     |    100     | 1000  |
-| TOTAL                          |            |            |            | 2800  |
+| TOTAL                          |            |            |            | 2100  |
 
 The prizes will be given as Virtual Visa gift cards, a few weeks after the conclusion of the competition.
 

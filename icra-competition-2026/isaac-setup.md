@@ -2,6 +2,8 @@
 layout: default
 ---
 
+**UPDATE:** The IsaacSim setup is available for demonstration purposes only. There will not be a challenge involving this platform.
+
 ## IsaacSim Setup
 
 [Isaac Sim Version 5.1.0](https://docs.isaacsim.omniverse.nvidia.com/5.1.0/index.html)
