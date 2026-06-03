@@ -53,6 +53,8 @@ Following are details about the three different environments:
 
 **May 30, 2026:** Added overview figure, and more details about competition
 
+**June 3, 2026:** Allow autonomous algorithms on dVRK to use two red pegs; minor rules change (allow trial to continue if one peg falls outside workspace)
+
 ## Timeline
 
 **Tues, June 2, 2026:** Human teleoperation competition (9 AM - 6 PM)

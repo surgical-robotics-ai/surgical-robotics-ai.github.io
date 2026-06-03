@@ -24,6 +24,8 @@ You will use a Quest 3 HMD, with hand controllers, as the interface to control t
 
 ## Autonomous Peg Transfer Challenge
 
+**UPDATE:** Due to lighting conditions, it is more difficult to distinguish the blue peg against the black background. Therefore, we are allowing autonomous algorithms on the dVRK setup to use two red pegs, if desired. However, all provided data from the human teleoperation challenge will use one blue peg and one red peg.
+
 Competitors for the Autonomous Peg Transfer Challenge should develop algorithms that interface
 with the dVRK and stereo camera, via the [ROS2 API](./ros2-api.html), using one of the following options:
 
