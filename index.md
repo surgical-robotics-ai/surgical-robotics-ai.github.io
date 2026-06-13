@@ -22,7 +22,7 @@ In addition, we have parallel implementation using NVIDIA IsaacSim.
 
 * [AccelNet Surgical Robotics Challenge, 2021-2022](./surgical-robotics-challenge-2021/challenge-2021.html) (concluded)
 * [AccelNet Surgical Robotics Challenge, 2023-2024](./surgical-robotics-challenge-2023/challenge-2023.html) (canceled)
-* [ICRA Surgical Robotics Competition, 2026](./icra-competition-2026/index.html) (active)
+* [ICRA Surgical Robotics Competition, 2026](./icra-competition-2026/index.html) (concluded)
 
 ## Workshops
 
