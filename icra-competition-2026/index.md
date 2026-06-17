@@ -4,6 +4,8 @@ layout: default
 
 # ICRA 2026 Competition: AI for Robotic Surgery
 
+**NOTE: This competition concluded on June 4, 2026**
+
 <img src="./Overview.svg" alt="Competition Overview">
 
 ## Overview
@@ -55,6 +57,8 @@ Following are details about the three different environments:
 
 **June 3, 2026:** Allow autonomous algorithms on dVRK to use two red pegs; minor rules change (allow trial to continue if one peg falls outside workspace); IsaacSim setup for demonstration only (no competitions on this platform)
 
+**June 17, 2026:** Competition winners posted on website
+
 ## Timeline
 
 **Tues, June 2, 2026:** Human teleoperation competition (9 AM - 6 PM)
@@ -86,6 +90,27 @@ The top performers in the following categories will receive prizes (in Euros) an
 | TOTAL                          |            |            |            | 2100  |
 
 The prizes will be given as Virtual Visa gift cards, a few weeks after the conclusion of the competition.
+
+## Competition Winners
+
+### Human Teleoperation Challenge
+
+Following are the winners of the Human Teleoperation challenge, out of a total of 18 participants in
+the AMBF Sim challenge and 21 participants in the dVRK (Real) challenge:
+
+| Competition                    | 1st place      | 2nd place   | 3rd place   |
+|--------------------------------|----------------|-------------|-------------|
+| Human Teleoperation, AMBF Sim  | Britton Jordan | Minho Hwang |  Ryan Yeung |
+| Human Teleoperation, Real      | Seongjun Park  | Ryan Yeung  | Cholin Kim  |
+
+### Autonomous AI Challenge
+
+Five teams registered for the Autonomous AI challenge, which was much more difficult due to
+the limited time for development. One team was able to demonstrate an autonomous peg transfer on the Real
+dVRK at the conclusion of the challenge.
+
+The **first place** award in the Autonomous AI, Real challenge goes to Team SurGLab from DGIST, South Korea.
+The team members are:  Cholin Kim, Jeonghyeon Yoon, Seongjun Park, Sihyeoung Park, Jonghyun Kang, and Minho Hwang.
 
 ## Contact
 
